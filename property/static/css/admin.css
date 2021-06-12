@@ -1,0 +1,27 @@
+#header{
+    height: 50px;
+    background-color: rgb(39, 25, 78);
+    color: white;
+}
+
+#branding h1{
+    color: white;
+}
+
+a:link,
+a:visited {
+    color: blue;
+}
+
+div.breadcrumbs{
+    background: green;
+}
+
+.module h2, .module caption, .inline-group h2{
+    background: green;
+}
+
+.submit-row input, .submit-row input.default, .submit-row a, .submit-row a.closelink{
+    background: blue;
+    color:white
+}
