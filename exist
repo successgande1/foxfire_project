@@ -1,0 +1,41 @@
+[33mcommit faf709384e4fb49ba9fc39e75d161a57c1754853[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Apollos Gande <60118118+successgande1@users.noreply.github.com>
+Date:   Sat Jun 12 14:01:05 2021 +0100
+
+    Created Superuser and Register App, Added Media Folder and Customized Admin Area using css
+
+[33mcommit 3496bd40d76f2bf014d51d879748867145d42720[m
+Author: Apollos Gande <60118118+successgande1@users.noreply.github.com>
+Date:   Thu Jun 10 12:05:55 2021 +0100
+
+    Created Models for Listings and Realtors
+
+[33mcommit 72e7c07dd18dfe6255015d2f4582213b99f29aa5[m
+Author: Apollos Gande <60118118+successgande1@users.noreply.github.com>
+Date:   Tue Jun 8 15:29:14 2021 +0100
+
+    Updated the Listings and Realtors app and created Listings templates with links
+
+[33mcommit c9705a61ebeaba938515595a8712d03769db4e45[m
+Author: Apollos Gande <60118118+successgande1@users.noreply.github.com>
+Date:   Mon Jun 7 21:37:21 2021 +0100
+
+    Done with Pages App
+
+[33mcommit e6b3fc885003036181e32b7c3787a4d245a63132[m
+Author: Apollos Gande <60118118+successgande1@users.noreply.github.com>
+Date:   Mon Jun 7 16:34:18 2021 +0100
+
+    Pages App, Html layout and static files
+
+[33mcommit 9ca280cdc40e1203cd32b0081d3d9db3522b80f6[m
+Author: Apollos Gande <60118118+successgande1@users.noreply.github.com>
+Date:   Tue Jun 1 14:09:19 2021 +0100
+
+    first commit
+
+[33mcommit 4b0ae4da8b9af6f6581fe2865eab0f0c0af42198[m
+Author: Apollos Gande <60118118+successgande1@users.noreply.github.com>
+Date:   Tue Jun 1 13:58:57 2021 +0100
+
+    my first commit
