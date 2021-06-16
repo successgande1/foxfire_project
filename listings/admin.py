@@ -4,10 +4,11 @@ from django.contrib import admin
 from .models import Listing
 
 class ListingAdmin(admin.ModelAdmin):
-    list_display = ('title', 'address', 'city', 'state', 'zipcode', 'realtor', 'price')
+    list_display = ('title', 'address', 'is_published', 'city', 'state', 'zipcode', 'realtor', 'price')
     list_display_links = ('title',)
-    list_filter = ('city', 'state', 'realtor')
-    search_fields = ('title', 'address', 'city', 'state', 'realtor')
+    list_filter = ('realtor',)
+    list_editable = ('is_published',)
+    search_fields = ('title', 'address', 'city', 'state', 'realtor__name', 'zipcode')
     list_per_page = 25
 
 
