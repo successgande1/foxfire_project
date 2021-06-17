@@ -6,7 +6,8 @@ from .models import Realtor
 class RealtorAdmin(admin.ModelAdmin):
     list_display = ('name', 'email', 'hire_date')
     search_fields = ('name',)
-    list_per_per = 25
+    #list_editable = ('is_mvp',)
+    list_per_page = 25
     
 
 #Register the Realtor App Model
